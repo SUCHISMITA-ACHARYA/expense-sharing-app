@@ -1,4 +1,6 @@
 Expense Sharing Application
+To go the web app:
+http://127.0.0.1:8000/
 
 Overview
 
